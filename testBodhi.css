@@ -1,0 +1,48 @@
+
+
+.card1 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 34%;
+    flex: auto;
+    float: left;
+    margin-left: 50px;
+    transition: 0.3s;
+    border-radius: 25px;
+    padding-left: 25px;
+    padding-top: 25px;
+
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card1:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .card2 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 60%;
+    height: 100%;
+    float: right;
+    margin-left: 25px;
+    transition: 0.3s;
+    border-radius: 25px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card2:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  .xom-esm-newsletter-p1-header{
+    padding-left: 20px;
+  }
+
+.xom-esm-newsletter-p1-months{
+  text-decoration: none;
+  font-size: large;
+  color: black;
+  font-weight: bold;
+  padding-bottom: 10px;
+}

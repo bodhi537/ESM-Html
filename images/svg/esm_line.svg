@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="4" viewBox="0 0 104 4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #2a5596;
+        stroke-linecap: round;
+        stroke-width: 4px;
+        stroke-dasharray: 2 8;
+      }
+    </style>
+  </defs>
+  <g id="esm_line" data-name="Component 25 – 1" transform="translate(2 2)">
+    <line id="Line_8117" data-name="Line 8117" class="cls-1" x2="100"/>
+  </g>
+</svg>

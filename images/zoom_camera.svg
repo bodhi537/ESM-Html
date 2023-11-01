@@ -1,0 +1,11 @@
+<svg id="zoom" data-name="Component 75 – 1" xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Rectangle_24719" data-name="Rectangle 24719" fill="#fff" stroke="#575757" stroke-width="3">
+    <rect width="96" height="96" rx="5" stroke="none"/>
+    <rect x="1.5" y="1.5" width="93" height="93" rx="3.5" fill="none"/>
+  </g>
+  <g id="video-camera" transform="translate(17.37 27.387)">
+    <rect id="Rectangle_111" data-name="Rectangle 111" width="44.553" height="41.227" rx="2" transform="translate(0 0)" fill="none" stroke="#575757" stroke-linecap="square" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_391" data-name="Path 391" d="M50.707,43.233,34,34.988V21.245L50.707,13Z" transform="translate(10.553 -8.877)" fill="none" stroke="#575757" stroke-linecap="square" stroke-linejoin="round" stroke-width="3"/>
+    <ellipse id="Ellipse_99" data-name="Ellipse 99" cx="3.481" cy="3.436" rx="3.481" ry="3.436" transform="translate(6.961 6.871)" fill="none" stroke="#575757" stroke-linecap="square" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>
